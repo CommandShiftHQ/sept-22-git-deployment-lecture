@@ -1,11 +1,13 @@
 ## Terry Pratchett books
+
 - Good Omens
 - The Colour of Magic
-- Nightwatch
+- Night Watch
 - The Fifth Elephant
 
 ## Neil Gaiman books
-- The ocean at the end of the lane
-- Smoke and mirrors
+
+- The Ocean at the End of the Lane
+- Smoke and Mirrors
 - Neverwhere
-- American Gdos
+- American Gods
