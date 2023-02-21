@@ -4,6 +4,7 @@
 - The Colour of Magic
 - Night Watch
 - The Fifth Elephant
+- I Shall Wear Midnight
 
 ## Neil Gaiman books
 
@@ -11,3 +12,4 @@
 - Smoke and Mirrors
 - Neverwhere
 - American Gods
+- Norse Mythology

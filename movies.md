@@ -4,6 +4,7 @@
 - Seven
 - Bruce Almighty
 - The Dark Knight
+- Robin Hood - Prince of Thieves
 
 ## Edward Norton movies
 
@@ -11,3 +12,4 @@
 - Fight Club
 - The Italian Job
 - Bourne Legacy
+- Glass Onion
